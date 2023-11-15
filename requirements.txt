@@ -1,0 +1,4 @@
+# warning use system interpreter setting up cplex in venv is a pain ...
+# https://www.ibm.com/docs/en/icos/20.1.0?topic=cplex-setting-up-python-api
+docplex
+cplex
